@@ -2,14 +2,9 @@
 
 This is a chatting application implemented in Java using Swing for the graphical user interface and Socket programming for the communication between client and server.
 
-![image](https://github.com/umangmtiwari/Java-Chatting-Application/assets/143312015/212edaa9-3873-407f-8d34-e030fb1e107c)
+![image](https://github.com/umangmtiwari/Java-Chatting-Application/assets/143312015/212edaa9-3873-407f-8d34-e030fb1e107c) ![image](https://github.com/umangmtiwari/Java-Chatting-Application/assets/143312015/9da58cc0-feee-4ccc-99e9-35cbbde159a7)
 
-![image](https://github.com/umangmtiwari/Java-Chatting-Application/assets/143312015/9da58cc0-feee-4ccc-99e9-35cbbde159a7)
-
-![image](https://github.com/umangmtiwari/Java-Chatting-Application/assets/143312015/54b0cbf7-01b2-4015-9aa8-fcc88803451a)
-
-![image](https://github.com/umangmtiwari/Java-Chatting-Application/assets/143312015/c60429c5-56a2-4176-aa99-e1d9334853b0)
-
+![image](https://github.com/umangmtiwari/Java-Chatting-Application/assets/143312015/54b0cbf7-01b2-4015-9aa8-fcc88803451a) ![image](https://github.com/umangmtiwari/Java-Chatting-Application/assets/143312015/c60429c5-56a2-4176-aa99-e1d9334853b0)
 
 ## Features
 
